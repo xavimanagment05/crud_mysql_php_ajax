@@ -10,7 +10,7 @@
         if(!$result) {
             die('Query Failed');
         }
-        echo "Task Deleted Successfully"; 
+        echo "Task Deleted Successfully";
     }
 
 ?>
